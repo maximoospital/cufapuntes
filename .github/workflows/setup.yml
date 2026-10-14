@@ -1,0 +1,9 @@
+- name: Hugo setup
+  # You may pin to the exact commit or the version.
+  # uses: peaceiris/actions-hugo@2752ce1d29631191ea3f27c23495fa06139a5b78
+  uses: peaceiris/actions-hugo@v3.2.1
+  with:
+    # The Hugo version to download (if necessary) and use. Example: 0.58.2
+    hugo-version: # optional, default is latest
+    # Download (if necessary) and use Hugo extended version. Example: true
+    extended: # optional, default is false
