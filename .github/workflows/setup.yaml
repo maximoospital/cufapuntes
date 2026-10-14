@@ -1,4 +1,4 @@
-- name: Hugo setup
+name: Hugo setup
   # You may pin to the exact commit or the version.
   # uses: peaceiris/actions-hugo@2752ce1d29631191ea3f27c23495fa06139a5b78
   uses: peaceiris/actions-hugo@v3.2.1
